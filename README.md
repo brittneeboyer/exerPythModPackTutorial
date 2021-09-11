@@ -2,11 +2,12 @@
 
 ## Summary of steps to complete
 
-- [ ] Fork this repository so you have your own copy to work on.
-- [ ] Clone the repository on your local machine. 
-- [ ] Create .py files from the tutorial in your repository.
-- [ ] Push your new files to your GitHub repository.
-- [ ] Submit a link to this GitHub repository in Canvas.
+- [*] Fork this repository so you have your own copy to work on.
+- [*] Clone the repository on your local machine. 
+- [*] Create .py files from the tutorial in your repository.
+- [*] Push your new files to your GitHub repository.
+      *My push didn't work...there were no "changes" on the files I had changed/created in the source directory.
+- [*] Submit a link to this GitHub repository in Canvas.
 
 ## Fork & Clone this repository
 
